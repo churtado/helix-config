@@ -1,6 +1,6 @@
 theme = "gruvbox_dark_soft"
 
-"diagnostic.error" = { fg = "errorfg", bg = "errorbg", underline = { color = "red" } }
+# "diagnostic.error" = { fg = "errorfg", bg = "errorbg", underline = { color = "red" } }
 
 [editor]
 bufferline = "multiple"
